@@ -1,0 +1,13 @@
+{:paths ["src" "config" "resources"]
+ :mvn/repos {"central" {:url "https://repo1.maven.org/maven2/"}
+             "my.datomic.com" {:url "https://my.datomic.com/repo/"}
+             "clojars" {:url "https://clojars.org/repo/"}}
+ :deps {org.clojure/clojure {:mvn/version "1.10.1"}
+        org.clojure/core.async {:mvn/version "0.4.500"}
+        clj-time {:mvn/version "0.15.0"}
+        org.clojure/data.csv {:mvn/version "0.1.4"}
+
+        com.datomic/datomic-free {:mvn/version "0.9.5697"}
+
+        ;
+        }}

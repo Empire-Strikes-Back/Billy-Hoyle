@@ -1,0 +1,5 @@
+[user]
+	email = fiber@program
+	name = fiber
+
+# git config --local include.path ../.gitconfig
