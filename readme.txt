@@ -2,7 +2,6 @@ i am fiber - food metrics program
 
 my language is clojure
 my runtime JVM, no GraalVM compilation
-i have no git history - my source files define me
 i am nutrients counter, food comparer
 i search foods, i see individual and aggregate values
 i select food items (individual or lists) for compare
